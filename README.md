@@ -1,7 +1,7 @@
 # 🧩 Kasten K10 – API Resources Reference (OpenShift Cluster)
 
 _Last update: October 2025_  
-_All API groups provided by Veeam Kasten K10 and their corresponding CRDs, kinds, and purposes._
+_All API groups provided by Veeam Kasten and their corresponding CRDs, kinds, and purposes._
 
 ---
 
